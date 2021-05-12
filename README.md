@@ -13,12 +13,12 @@ To set the info-cluster scoring on follow the steps given below:
 
 1. While creating the Log template turn the toggle button on under Log Provider tab as shown below:
 
-   ![alt_text](images/image1.png "image_tooltip")
+   ![alt_text](assets/image1.png "image_tooltip")
 
 
 2. After enabling the INFO scoring feature, a new ‘Info’ field is added under the  ‘Characterization Topic’ drop down in the ‘Log Topic’ tab as shown below:
 
-![alt_text](images/image2.png "image_tooltip")
+![alt_text](assets/image2.png "image_tooltip")
 
 
 3. After a run is completed with INFO scoring feature on, UI shall display the ‘Info’ cluster having score reduction greater than zero in the unexpected tab. 
@@ -26,7 +26,7 @@ To set the info-cluster scoring on follow the steps given below:
 You can reclassify any other topic as ‘Info’ and vice-versa. The same logic shall be applicable to reclassification flow as well as a new run for the same application. The dropdown options in the unexpected and ignored tab should display ‘Info’ field if the INFO scoring feature is turned on. 
  
 
-![alt_text](images/image3.png "image_tooltip")
+![alt_text](assets/image3.png "image_tooltip")
 
 
 
